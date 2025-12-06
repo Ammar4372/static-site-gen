@@ -3,7 +3,6 @@ from textnode import (
     TextNode,
     text_type_text,
     text_type_bold,
-    
 )
 
 
@@ -37,3 +36,4 @@ class TestTextNode(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+

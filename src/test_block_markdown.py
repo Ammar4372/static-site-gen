@@ -17,7 +17,7 @@ class TestMarkdownToHTML(unittest.TestCase):
         md = """
 This is **bolded** paragraph
 
-This is another paragraph with *italic* text and `code` here
+This is another paragraph with _italic_ text and `code` here
 This is the same paragraph on a new line
 
 * This is a list
@@ -40,7 +40,7 @@ This is **bolded** paragraph
 
 
 
-This is another paragraph with *italic* text and `code` here
+This is another paragraph with _italic_ text and `code` here
 This is the same paragraph on a new line
 
 * This is a list
